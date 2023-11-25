@@ -1,6 +1,6 @@
 # 👋 Hi, I'm @Itslynn1!
 
-Welcome to my creative coding journey! 🚀 I'm passionate about Java, graphic design, game development, mobile app creation, Unity, C#, AI, Android Studio, Figma, SAI2, Photoshop, Adobe Illustrator, JavaScript, 3DS Max, Ren'Py, HTML, CSS, XML, jQuery.
+Welcome to my creative coding journey! 🚀 I'm passionate about , graphic design, game development and mobile app creation
 
 ## 💻 Technologies & Interests
 
@@ -22,7 +22,7 @@ Feel free to explore them, and I would love to hear your thoughts!
 
 - [Instagram](https://instagram.com/0.itslynn.0?igshid=NzZlODBkYWE4Ng==)
 - [Email](mailto:chernetskaya007alina@gmail.com)
--  [Telegram](t.me/itslynna)
+-  [Telegram](https://t.me/itslynna)
 
 Let's connect and collaborate on something awesome! 🚀
 
@@ -33,7 +33,9 @@ I'm open to collaboration on interesting projects. If you have an idea or projec
 
 ## 📚 A Tech Joke for You
 
-[Your Favorite Tech Joke]
+Why did the computer go to therapy?
+
+It had too many bytes of emotional baggage! 🐛✨о
 
 Thanks for stopping by! Let's code, design, and create something extraordinary! 🌟
 <!---
