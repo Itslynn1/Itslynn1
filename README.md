@@ -20,7 +20,7 @@ Feel free to explore them, and I would love to hear your thoughts!
 
 ## 📫 Connect with Me
 
-- [https://png.pngtree.com/png-clipart/20200226/original/pngtree-instagram-icon-collection-png-image_5320951.jpg](https://instagram.com/0.itslynn.0?igshid=NzZlODBkYWE4Ng==)
+- [Instagram](https://instagram.com/0.itslynn.0?igshid=NzZlODBkYWE4Ng==)
 - [Email](mailto:chernetskaya007alina@gmail.com)
 -  [Telegram](https://t.me/itslynna)
 
