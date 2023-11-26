@@ -4,7 +4,7 @@ Welcome to my creative coding journey! 🚀 I'm passionate about , graphic desig
 
 ## 💻 Technologies & Interests
 
-- **Programming Languages:** Java, C#, JavaScript,Python
+- **Programming Languages:** Java, C#,Python
 - **Graphic Design Tools:** Photoshop, Adobe Illustrator, Figma, 3Ds Max
 - **Game Development:** Unity, RenPy
 - **Mobile Development:** Android Studio
